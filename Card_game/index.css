@@ -1,0 +1,28 @@
+body{
+    background-color: green;
+    background-image: url("https://t.ly/quYd") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    height: 100vh;
+    overflow-y: hidden;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.heading{
+    color:yellow ;
+}
+#message-el{
+    font-style: italic;
+}
+
+button{
+    color:rgb(94, 139, 9);
+    background-color: yellow;
+    width: 150px;
+    padding: 5px ;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 4px;
+}
